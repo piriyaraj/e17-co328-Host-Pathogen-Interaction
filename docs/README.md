@@ -1,50 +1,22 @@
----
-layout: home
-permalink: index.html
+# Play - Free Tailwind CSS Template for Startup, Apps and SaaS
 
-# Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
----
+Play is an open-source and free Tailwind CSS template co-created by TailGrids and UIdeck. This template specially crafted for SaaS, startup, business and software website.
+Play crafted in a way that you can use with almost all sort of web project. This is Tailwind CSS version of our old [Bootstrap](https://preview.uideck.com/items/play-bootstrap/) project.
 
-[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
-
-# Project Title
-
----
-
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
-![Sample Image](./images/sample.png)
+### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components
 
 
-## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+### [🚀 View Demo](https://play-tailwind.tailgrids.com/)
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Other Sub Topics](#other-sub-topics)
-3. [Links](#links)
+### [⬇️ Download Now](https://links.tailgrids.com/play-download)
 
----
-
-## Introduction
-
- description of the real world problem and solution, impact
-
-## Other Sub Topics
-
-.....
-
-## Links
-
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
-- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
-- [University of Peradeniya](https://eng.pdn.ac.lk/)
+[![play-tailwind](https://cdn.tailgrids.com/play-tailwind.jpg)](https://play-tailwind.tailgrids.com/)
 
 
-[//]: # (Please refer this to learn more about Markdown syntax)
-[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## 📃 License
+Play is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
+
+## 💙 Support
+You can always support this project by [Starring🌟 This Repository](https://github.com/tailgrids/play-tailwind) 
+and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
