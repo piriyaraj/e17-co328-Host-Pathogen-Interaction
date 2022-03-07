@@ -23,7 +23,7 @@ we are suggesting a web application integrated with a machine learning framework
 ## Team
 -  E/17/292, Rilwan M,  [e17292@eng.pdn.ac.lk](mailto:e17292@eng.pdn.ac.lk)
 -  E/17/256, Piriyaraj S, [e17256@eng.pdn.ac.lk](mailto:e17256@eng.pdn.ac.lk)
--  E/17/352, Thanujan T, [e17352@eng.pdn.ac.lk](mailto:e17352@eng.pdn.ac.lk)
+-  E/17/342, Thanujan T, [e17352@eng.pdn.ac.lk](mailto:e17352@eng.pdn.ac.lk)
 -  E/17/358, Varnaraj N, [e17358@eng.pdn.ac.lk](mailto:e17358@eng.pdn.ac.lk)
 
 
